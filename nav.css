@@ -50,7 +50,7 @@
 footer{
     background-color: #15120D;
     color: #fff;
-    margin-top: 70px;
+    /* margin-top: 70px; */
     padding: 40px 0;
 }
 
@@ -83,5 +83,11 @@ footer .mt-3{
     #navbar.navbar-light.bg-transparent {
         background-color: #A8A8A7 !important;
         color: #fff;
+    }
+
+    #navbar .navbar-nav .contact-link {
+        background-color: transparent;
+        border: none;
+        color: white;
     }
 }
