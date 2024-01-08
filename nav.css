@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.social-icon {
+    color: #fff;
+}
+
+#navbar.navbar-light.bg-transparent {
+    background-color: transparent !important;
+}
+
+#navbar.navbar-light.bg-dark {
+    background-color: #000 !important;
+}
+
+#navbar.navbar-light .navbar-nav .nav-link.text-white {
+    color: #fff !important;
+}
+
+.navbar-brand h1{
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.nav-link{
+    text-transform: uppercase;
+    color:#fff !important;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
+#navbar .navbar-nav .contact-link {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white; /* Set text color to white */
+}
+
+#navbar .navbar-nav .nav-link {
+    margin-right: 20px; /* Adjust the margin to increase/decrease spacing */
+}
+
+#navbar .navbar-nav .contact-link {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white; /* Set text color to white */
+}
+
+footer{
+    background-color: #15120D;
+    color: #fff;
+    margin-top: 70px;
+    padding: 40px 0;
+}
+
+footer h4{
+    text-transform: uppercase;
+}
+
+footer a {
+    color: #fff;
+}
+
+footer .mt-3{
+    text-transform: uppercase;
+}
+
+.copyright {
+    text-align: center;
+    color: #fff;
+    background-color: #090908;
+}
+
+.copyright h2{
+    font-size: 13px;
+    padding: 10px 0px;
+}
+
+
+@media (max-width: 768px) {
+
+    #navbar.navbar-light.bg-transparent {
+        background-color: #A8A8A7 !important;
+        color: #fff;
+    }
+}
