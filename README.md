@@ -29,11 +29,11 @@ The "Our Best Sellers" section highlights the most sought-after products, showca
 To engage customers, a subscription form is prominently displayed, offering a 10% discount on their first order. Contact information is also provided, ensuring seamless communication between the business and its clientele.
 
 ## Technologies Used
-HTML5, CSS3
-Bootstrap 4.0.0
-JavaScript
-FontAwesome Icons
-Responsive Web Design
+1. HTML5, CSS3
+2. Bootstrap 4.0.0
+3. JavaScript
+4. FontAwesome Icons
+5. Responsive Web Design
 
 ## How to Use
 Clone the repository: git clone https://github.com/WisdomPandovic/Abisola-Nail-Studio.git
