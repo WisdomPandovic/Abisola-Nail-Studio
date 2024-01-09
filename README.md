@@ -37,6 +37,7 @@ Responsive Web Design
 
 ## How to Use
 Clone the repository: git clone https://github.com/WisdomPandovic/Abisola-Nail-Studio.git
+
 Open index.html in your preferred web browser.
 
 ## Contributing
